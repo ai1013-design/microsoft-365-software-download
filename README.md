@@ -32,6 +32,8 @@ Complete these steps to prepare for downloading Microsoft Office:
 - **Stable internet connection** is required for a smooth download.
 - **Disable antivirus temporarily** to avoid installation conflicts.
 
+*Check out Test Drive of Quickbooks Software to discover how it can simplify your accounting tasks: https://whips-kicks.com/quickbooks-test-drive*
+
 ## Microsoft 365 Installation Guide (Time Required: 40 minutes)
 
 ### Step-by-Step Process
